@@ -15,3 +15,18 @@ hand aperture
 thumb hole
 - 28mm
 
+
+Print settings:
+Infill: 100%
+Brim
+Supports: on
+Supports Pattern spacing: 2mm
+Supports: on
+Supports Overhang threshold: 30 degrees (so that just the countersunk holes have supports
+
+
+Buy new screws: 6-32 UNC 0.5" long
+Drill out the holes
+Use thin bungee to complete the thumb loop
+Tie on a bolt snap.
+
